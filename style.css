@@ -294,7 +294,7 @@ body {
     max-width: 600px; /* Ajusta el ancho máximo según sea necesario */
     box-sizing: border-box; /* Incluye el borde en el cálculo del ancho total */
     text-align: justify; /* Justifica el texto dentro del contenedor */
-    margin-bottom: 1cm;
+    margin-bottom: 20px;
 }
 
 /* Estilo al pasar el ratón por encima (hover) */
@@ -631,7 +631,7 @@ input[type="radio"] {
 
 .seccion8 {
     width: 80%;
-    height: 90%;
+    height: 100%;
     background-color: #222225;
     border-radius: 20px;
     padding: 10px;
