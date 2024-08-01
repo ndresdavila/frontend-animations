@@ -1,0 +1,12 @@
+
+Tipografías
+
+título del menu
+font-family: Sora, Arial, Helvetica, sans-serif
+
+texto
+font-family: Manrope, Arial, Helvetica, sans-serif
+titulos
+font-family: Manrope Alt, Arial, Helvetica, sans-serif
+owl nav
+font-family: 'Font Awesome 5 Free';
